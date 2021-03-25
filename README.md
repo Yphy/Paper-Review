@@ -1,7 +1,8 @@
 # Paper-Review
 딥러닝 논문을 읽고 요약하여 정리한 내용을 포스팅하는 공간입니다.
 
-Full review는 노션 블로그에 업로드하며 Issue로 포스팅.
+Full review는 노션 블로그에 업로드하며 github에는 Issue로 포스팅.
+
 
 
 ## Computer Vision
