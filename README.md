@@ -7,3 +7,4 @@ Full review는 노션 블로그에 업로드하며 github에는 Issue로 포스�
 
 ## Computer Vision
 [Rich feature hierarchies for accurate object detection and semantic segmentation (2014)](https://github.com/Yphy/Paper-Review/issues/1)
+[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015)](https://github.com/Yphy/Paper-Review/issues/2)
